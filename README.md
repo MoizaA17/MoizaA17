@@ -1,44 +1,77 @@
-# Hi there, I'm Moizah Kafayat! 👋
+# Hi, I'm Moizah Kafayat 👋
 
-Welcome to my GitHub profile!  
-I'm an enthusiastic and motivated developer passionate about Artificial Intelligence, Machine Learning, Data Science, and Python programming. My ambition is to become an expert AI Engineer—solving real-world problems, one project at a time.
+**AI Application Development | Workflow Automation | Python**
+
+I'm a BS Information Technology graduate interested in building practical AI applications and automating repetitive business processes. I enjoy solving real-world problems by combining Python, LLM APIs, and workflow automation.
 
 ## 🚀 About Me
 
-- 🧠 AI/ML/DS enthusiast, eager to learn and grow
-- 🐍 Python is my top programming language
-- 💡 I love breaking complex problems into small, manageable chunks for better understanding and easier solutions
-- 📚 Always learning by building real-world projects
-- 🤝 Open to collaborations and team projects
-- 🌱 Currently working on:  
-  - Student Management System ([repo](https://github.com/MoizaA17/Student-ManagementSystem))
-  - To-Do App ([repo](https://github.com/MoizaA17/my-todo-app))
+- 🐍 Building applications with Python
+- 🤖 Integrating Google Gemini API into AI-powered applications
+- ⚙️ Building workflow automations using Make.com
+- 🔗 Learning API integration, JSON data handling, and workflow design
+- 🧠 Exploring prompt engineering and Retrieval-Augmented Generation (RAG)
+- 🌱 Improving my skills through hands-on projects and experimentation
+- 🤝 Open to collaboration and opportunities in AI and automation
 
-## 🛠️ My Skills
+## 🛠️ Technical Skills
 
-- Python, Pandas, NumPy, Scikit-learn, Matplotlib
-- Data Science and Machine Learning fundamentals
-- Problem-solving and modular coding
-- Project management and version control (Git/GitHub)
+- **Programming:** Python
+- **AI and LLMs:** Google Gemini API, prompt engineering, chatbot development
+- **Workflow Automation:** Make.com, automated form processing, lead tracking
+- **Application Development:** Streamlit
+- **Computer Vision:** MobileNetV2, image classification, TensorFlow Lite
+- **Tools:** Google Colab, Jupyter Notebook, VS Code, Git, GitHub
 
 ## 🌟 Featured Projects
 
-- [Student Management System](https://github.com/MoizaA17/Student-ManagementSystem): A robust system for managing student records and activities
-- [My To-Do App](https://github.com/MoizaA17/my-todo-app): A productivity app to organize tasks and boost efficiency
+### 1. Lead Capture and Auto Follow-Up System
+**Tools:** Make.com, Google Sheets, Gmail
 
-## 📈 Current Goals
+Built a workflow that automates lead capture and follow-up.
 
-- Deepen my expertise in AI/ML/DS through hands-on projects
-- Contribute to open-source projects in the AI/ML space
-- Connect with like-minded developers and AI professionals
+- Captures form submissions and generates a unique Lead ID.
+- Stores lead information in Google Sheets.
+- Sends automated confirmation emails.
+- Updates lead status to support organized tracking.
 
-## 📫 Let's Connect!
+### 2. Streamlit AI Chatbot
+**Tools:** Python, Streamlit, Google Gemini API
 
-- [LinkedIn](https://www.linkedin.com/in/moizah-kafayat)
+Developed an interactive chatbot powered by Google's Gemini API.
 
----
+- Generates real-time responses.
+- Maintains chat history across interactions.
+- Includes API authentication and error handling.
 
-> "Solving big problems starts with breaking them into smaller parts!"
+### 3. Dr. Agro: AI-Powered Crop Disease Detection App
+**Tools:** MobileNetV2, TensorFlow Lite, Flutter
 
-Thanks for stopping by! Feel free to check out my projects or connect with me.
+Developed an offline mobile application to help farmers identify crop diseases and access treatment recommendations.
 
+- Implemented a two-stage crop classification and disease detection pipeline.
+- Achieved 92.34% reported test accuracy.
+- Added treatment recommendations in Roman Urdu to improve accessibility.
+
+## 🏆 Hackathon
+
+**Next Founders Hackathon | October 2026**
+
+Participating in an online hackathon focused on developing a functional product that solves a real-world problem.
+
+## 🎯 Current Goals
+
+- Build more practical AI-powered workflow automations.
+- Improve my understanding of REST APIs, webhooks, and JSON.
+- Explore RAG pipelines and AI agents.
+- Develop reliable, well-tested automation solutions.
+- Learn from experienced engineers and contribute to real-world projects.
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Moizah Kafayat](https://www.linkedin.com/in/moizah-kafayat)
+- **GitHub:** Explore my repositories to see my projects and progress.
+
+I'm interested in opportunities where I can apply AI and workflow automation to solve practical problems.
+
+*Building useful solutions, one workflow at a time.*
