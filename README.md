@@ -20,7 +20,6 @@ I'm a BS Information Technology graduate interested in building practical AI app
 - **AI and LLMs:** Google Gemini API, prompt engineering, chatbot development
 - **Workflow Automation:** Make.com, automated form processing, lead tracking
 - **Application Development:** Streamlit
-- **Computer Vision:** MobileNetV2, image classification, TensorFlow Lite
 - **Tools:** Google Colab, Jupyter Notebook, VS Code, Git, GitHub
 
 ## 🌟 Featured Projects
