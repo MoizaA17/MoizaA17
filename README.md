@@ -54,9 +54,13 @@ Developed an offline mobile application to help farmers identify crop diseases a
 
 ## 🏆 Hackathon
 
-**Next Founders Hackathon | October 2026**
+### 🏆 Next Founders Hackathon | FollowUp Buddy | October 2026
 
-Participating in an online hackathon focused on developing a functional product that solves a real-world problem.
+Building **FollowUp Buddy**, a lead management solution designed to help freelancers and small businesses track leads and avoid missing follow-ups.
+
+- Organizes leads by status, including New, Contacted, Follow-up Due, and Converted.
+- Helps users track follow-up dates and identify leads that need attention.
+- Aims to simplify lead management and reduce missed business opportunities.
 
 ## 🎯 Current Goals
 
